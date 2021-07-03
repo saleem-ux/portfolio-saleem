@@ -62,7 +62,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/saleem.b.diab"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -75,8 +75,8 @@ class SimpleFooter extends React.Component {
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
-                  color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  color="linkedin"
+                  href="https://www.linkedin.com/in/saleem-diab-3a3306210/"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/saleem-ux"
                   id="tooltip495507257"
                   target="_blank"
                 >
